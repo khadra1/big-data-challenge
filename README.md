@@ -39,50 +39,25 @@ Data was loaded (written) onto the RDS (relational database). Each table that wa
 Lastly I saved both Google Colab files as ipynb into the Level 1 folder.
 
 
-# Level 2
+# Level 2
 I decided the use the **Digital Video Games Reviews** dataset to do further analysis using PySpark to investigate whether Vine reviews are free of bias but I could not find a dataset with vine reviews so I decided to look at verified purchase reviews vs unverified purchases.
 ![video_games_df](https://user-images.githubusercontent.com/67019030/184520044-6a5db4ed-5023-4617-8fd6-441e26f14df6.png)
 
 ## Summary Analyis
 
 My findings:
-![verified_vs_unverified](https://user-images.githubusercontent.com/67019030/184520281-2617751c-4933-493c-9dd5-019f42283d08.png)
 
 * There are 124,316 verified purchase reviews and 21115 unverified purchase reviews in this dataset making it very skewed
-*
-*
+
+![verified_vs_unverified](https://user-images.githubusercontent.com/67019030/184521933-ecb0f238-ae1a-4d0c-8b39-422adcfa77c1.png)
 
 
-### Verified Purchases vs Unverified Purchases reviews
-First I filtered the reviews to get **DataFrames of Verified and Unverified Purchases reviews:**
-<table>
-  <tr>
-    <td>Verified Purchase Reviews</td>
-     <td>Unverified Purchases reviews</td>
-  </tr>
-  <tr>
-    <td><img src="Level 2/Images/verified_purchases_df.png" width=500 height=480></td>
-    <td><img src="Level 2/Images/unverified_purchases_df" width=500 height=480></td>
-  </tr>
- </table>
+* Top Ten Verified vs Unverified Purchases reviews by Total Votes and Total Helpful Votes:
+ `SimCity - Limited Edition` has the highest helpful votes count and highest total votes count of both Verified and Unverified Purchase reviews
 
 
 
 
-**Top Ten Verified vs Unverified Purchases reviews by Total Votes and Total Helpful Votes:**
-
-<table>
-  <tr>
-    <td>Verified Purchase Reviews</td>
-     <td>Unverified Purchases reviews</td>
-  </tr>
-  <tr>
-    <td><img src="Level 2/Images/verified_top_ten.png" width=500 height=480></td>
-    <td><img src="Level 2/Images/top_ten_unverified.png" width=500 height=480></td>
-  </tr>
- </table>
-
-
-### Reviews Summary Statistics:
-
+* Reviews Summary Statistics:
+The most reviewed video game for Verified Purchase reviews is `Playstation Network Card` and for Unverified Purchase reviews is  `SimCity - Limited Edition`.
 
