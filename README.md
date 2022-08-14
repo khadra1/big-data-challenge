@@ -1,7 +1,4 @@
-# big-data-challenge
-
-
-## Big Data - Extract Transform Load - Amazon Shoppers Reviews
+# Big Data - Extract Transform Load - Amazon Shoppers Reviews
 Using PySpark, PgAdmin, and AWS' Relational Databases using Google's Colab.
 
 ### “Alexa, Can You Handle Big Data?”
