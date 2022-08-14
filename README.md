@@ -1,5 +1,5 @@
 # Big Data - Extract Transform Load - Amazon Shoppers Reviews
-Using PySpark, PgAdmin, and AWS' Relational Databases using Google's Colab.
+Using PySpark, PgAdmin, and AWS' Relational Databases in Google's Colab.
 
 ### “Alexa, Can You Handle Big Data?”
 Many of Amazon's shoppers depend on product reviews to make a purchase. Amazon makes these datasets publicly available. They are quite large and can exceed the capacity of local machines. One dataset alone contains over 1.5 million rows; with over 40 datasets, data analysis can be very demanding on the average local computer.
