@@ -61,8 +61,8 @@ First I filtered the reviews to get **DataFrames of Verified and Unverified Purc
      <td>Unverified Purchases reviews</td>
   </tr>
   <tr>
-    <td><img src="verified_purchases_df.png" width=500 height=480></td>
-    <td><img src="unverified_purchases_df" width=500 height=480></td>
+    <td><img src="Level 2/Images/verified_purchases_df.png" width=500 height=480></td>
+    <td><img src="Level 2/Images/unverified_purchases_df" width=500 height=480></td>
   </tr>
  </table>
 
@@ -77,8 +77,8 @@ First I filtered the reviews to get **DataFrames of Verified and Unverified Purc
      <td>Unverified Purchases reviews</td>
   </tr>
   <tr>
-    <td><img src="verified_top_ten.png" width=500 height=480></td>
-    <td><img src="top_ten_unverified.png" width=500 height=480></td>
+    <td><img src="Level 2/Images/verified_top_ten.png" width=500 height=480></td>
+    <td><img src="Level 2/Images/top_ten_unverified.png" width=500 height=480></td>
   </tr>
  </table>
 
