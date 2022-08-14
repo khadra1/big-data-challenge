@@ -37,7 +37,7 @@ Lastly I saved both Google Colab files as ipynb into the Level 1 folder.
 
 
 # Level 2
-I decided the use the **Digital Video Games Reviews** dataset to do further analysis using PySpark to investigate whether Vine reviews are free of bias but I could not find a dataset with vine reviews so I decided to look at verified purchase reviews vs unverified purchases.
+For Level 2 I decided to use the **Digital Video Games Reviews** dataset to do further analysis using PySpark to investigate whether Vine reviews are free of bias but I could not find a dataset with vine reviews so I decided to look at verified purchase reviews vs unverified purchases.
 ![video_games_df](https://user-images.githubusercontent.com/67019030/184520044-6a5db4ed-5023-4617-8fd6-441e26f14df6.png)
 
 ## Summary Analyis
