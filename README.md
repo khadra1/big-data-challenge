@@ -61,8 +61,8 @@ First I filtered the reviews to get **DataFrames of Verified and Unverified Purc
      <td>Unverified Purchases reviews</td>
   </tr>
   <tr>
-    <td><img src="![verified_purchases_df](https://user-images.githubusercontent.com/67019030/184520476-02edb4d1-e34a-40e5-a8ca-7ec2cf4a8f62.png)" width=500 height=480></td>
-    <td><img src="![unverified_purchases_df](https://user-images.githubusercontent.com/67019030/184520488-1c53a8ce-4e93-46d6-b6ae-f039d1c22833.png)" width=500 height=480></td>
+    <td><img src="verified_purchases_df.png" width=500 height=480></td>
+    <td><img src="unverified_purchases_df" width=500 height=480></td>
   </tr>
  </table>
 
@@ -77,10 +77,8 @@ First I filtered the reviews to get **DataFrames of Verified and Unverified Purc
      <td>Unverified Purchases reviews</td>
   </tr>
   <tr>
-    <td><img src="![verified_top_ten](https://user-images.githubusercontent.com/67019030/184520533-42de18f8-4a33-477c-ad28-2424f7b5481d.png)" width=500 height=480></td>
-    <td><img ![top_ten_unverified](https://user-images.githubusercontent.com/67019030/184520553-685daa83-9f13-4870-9af4-8fbe71c1579b.png)
-src="![Uploading top_ten_unverified.png…]()
-" width=500 height=480></td>
+    <td><img src="verified_top_ten.png" width=500 height=480></td>
+    <td><img src="top_ten_unverified.png" width=500 height=480></td>
   </tr>
  </table>
 
