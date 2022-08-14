@@ -85,10 +85,4 @@ First I filtered the reviews to get **DataFrames of Verified and Unverified Purc
 
 ### Reviews Summary Statistics:
 
-* **Verified Purchase Reviews**
-![verified_statistics](https://user-images.githubusercontent.com/67019030/184520152-127a4dcb-4c44-4403-ae94-3397570e1052.png)
 
-
-* **Unverified Purchase Reviews Summary Statistics:**
-
-![unverified_statistics](https://user-images.githubusercontent.com/67019030/184520275-f15e18e3-7017-482d-acf6-8fd60b913ddf.png)
