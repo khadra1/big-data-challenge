@@ -44,17 +44,16 @@ For Level 2 I decided to use the **Digital Video Games Reviews** dataset to do f
 
 My findings:
 
-* There are 124,316 verified purchase reviews and 21115 unverified purchase reviews in this dataset making it very skewed
-
-![verified_vs_unverified](https://user-images.githubusercontent.com/67019030/184521933-ecb0f238-ae1a-4d0c-8b39-422adcfa77c1.png)
-
-
 * Top Ten Verified vs Unverified Purchases reviews by Total Votes and Total Helpful Votes:
- `SimCity - Limited Edition` has the highest helpful votes count and highest total votes count of both Verified and Unverified Purchase reviews
-
-
+ `SimCity - Limited Edition` has the highest helpful votes count and highest total votes count of both Verified and Unverified Purchase reviews.
 
 
 * Reviews Summary Statistics:
 The most reviewed video game for Verified Purchase reviews is `Playstation Network Card` and for Unverified Purchase reviews is  `SimCity - Limited Edition`.
+
+* There are 124,316 verified purchase reviews and 21115 unverified purchase reviews in this dataset making it very skewed.
+
+![verified_vs_unverified](https://user-images.githubusercontent.com/67019030/184521933-ecb0f238-ae1a-4d0c-8b39-422adcfa77c1.png)
+
+
 
